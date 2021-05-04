@@ -13,8 +13,10 @@ setup(
     description="Fastest cookie clicker bot in the west.",
     long_description=readme,
     long_description_content_type="text/markdown",
+    keywords="cookie clicker bot python",
     url="https://github.com/PBeGood4/cookie_clicker-bot/",
     scripts=["rubiks-cube-tracker.py"],
+    packages=[],
     install_requires=requirements,
     classifiers=[
         "Programming Language :: Python :: 3.9",

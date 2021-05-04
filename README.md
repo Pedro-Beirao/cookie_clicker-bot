@@ -1,5 +1,5 @@
 # cookie_clicker-bot
-Just clicks on the screen as fast as possible. 
+The fastest cookie clicker bot in the west.
 
 ___
 
@@ -8,6 +8,10 @@ ___
 ___
 
 At first I tried using pyautogui, but is was too slow, so I ended up using pynput.
+
+When you start the script, you will have 5 seconds to put your mouse on the cookie. It will then click as fast as it can.
+
+Press ESC to exit.
 
 ## Install
 

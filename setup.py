@@ -15,7 +15,7 @@ setup(
     long_description_content_type="text/markdown",
     keywords="cookie clicker bot python",
     url="https://github.com/PBeGood4/cookie_clicker-bot/",
-    scripts=["rubiks-cube-tracker.py"],
+    scripts=["cookiebot.py"],
     packages=[],
     install_requires=requirements,
     classifiers=[

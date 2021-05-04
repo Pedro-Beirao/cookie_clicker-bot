@@ -21,4 +21,4 @@ $ pip install git+https://github.com/PBeGood4/cookie_clicker-bot/
 $ cookiebot.py
 ```
 
-To see dependecies, license and more, see setup.py
+To see dependecies, refer to setup.py

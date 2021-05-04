@@ -1,5 +1,5 @@
 # cookie_clicker-bot
-Just clicks the on the screen as fast as possible. 
+Just clicks on the screen as fast as possible. 
 
 ___
 
@@ -9,3 +9,16 @@ ___
 
 At first I tried using pyautogui, but is was too slow, so I ended up using pynput.
 
+## Install
+
+```
+$ pip install git+https://github.com/PBeGood4/cookie_clicker-bot/
+```
+
+## Run
+
+```
+$ cookiebot.py
+```
+
+To see dependecies, license and more, see setup.py

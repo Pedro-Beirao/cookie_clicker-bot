@@ -27,7 +27,7 @@ $ cookiebot.py
 
 Have fun beating WRs
 
-This bot can reach over 900 clicks per second
+This bot can reach over 900 clicks per second (Depends on the speed of your PC)
 
 <img width="397" alt="Screenshot 2021-05-05 at 19 38 32" src="https://user-images.githubusercontent.com/82064173/117192507-b91b1380-add9-11eb-984f-761de116dba5.png">
 

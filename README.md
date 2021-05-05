@@ -1,11 +1,7 @@
 # cookie_clicker-bot
 The fastest cookie clicker bot in the west.
 
-___
-
-**Tested with python 3.9**
-
-___
+Program written in python3
 
 At first I tried using pyautogui, but is was too slow, so I ended up using pynput.
 

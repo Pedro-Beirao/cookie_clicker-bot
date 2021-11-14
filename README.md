@@ -11,20 +11,11 @@ When you start the script, you will have 5 seconds to put your mouse on the cook
 
 Press ESC to exit.
 
-## Install
-
-```
-Download
-
-or
-
-$ pip install git+https://github.com/PBeGood4/cookie_clicker-bot/
-```
 
 ## Run
 
 ```
-$ cookiebot.py
+$ python3 cookiebot.py
 ```
 
 Have fun beating WRs

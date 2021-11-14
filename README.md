@@ -14,6 +14,10 @@ Press ESC to exit.
 ## Install
 
 ```
+Download
+
+or
+
 $ pip install git+https://github.com/PBeGood4/cookie_clicker-bot/
 ```
 

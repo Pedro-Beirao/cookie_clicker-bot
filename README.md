@@ -15,6 +15,8 @@ Press ESC to exit.
 ## Run
 
 ```
+$ pip install pynput
+
 $ python3 cookiebot.py
 ```
 
